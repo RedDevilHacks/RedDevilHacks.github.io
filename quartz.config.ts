@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
  configuration: {
-   pageTitle: "🪴 RDH on Quartz 4.0",
+   pageTitle: "💻 Red Devil Hacks 2025",
    pageTitleSuffix: "",
    enableSPA: true,
    enablePopovers: true,
@@ -19,8 +19,8 @@ const config: QuartzConfig = {
      fontOrigin: "googleFonts",
      cdnCaching: true,
      typography: {
-       header: "Noto Sans",
-       body: "Playfair Display",
+       header: "Schibsted Grotesk",
+       body: "Source Sans Pro",
        code: "IBM Plex Mono",
      },
      colors: {
