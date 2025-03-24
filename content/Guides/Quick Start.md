@@ -1,7 +1,7 @@
 ---
 title: Quick Start Guides
 date: 2025-03-24
-tags: [quickstart, tutorials, guides]
+tags: [Guides, tutorials, guides]
 ---
 
 # Quick Start Guides
@@ -12,22 +12,20 @@ Welcome to Red Devil Hacks 2025! Choose the guide that best matches your experie
 
 ### Based on CS Course Experience
 
-- [COMP 130 / Introduction to Computing](/quickstart/comp130.md)
-- [COMP 132 / Principles of Object-Oriented Design](/quickstart/comp132.md)
-- [COMP 232 / Data Structures and Problem Solving](/quickstart/comp232.md)
-- [COMP 190/290 / Open Source Software Development](/quickstart/comp190-290.md)
-- [Advanced CS Courses](/quickstart/advanced.md)
+- [COMP 130 / Introduction to Computing](/Guides/COMP-130.md)
+- [COMP 132 / Principles of Object-Oriented Design](/Guides/COMP-132.md)
+- [COMP 232 / Data Structures and Problem Solving](/Guides/comp232.md)
+- [COMP 190/290 / Open Source Software Development](/Guides/COMP-190-or-COMP-290.md)
 
 ### Based on General Experience
 
-- [Complete Beginners - No CS Experience](/quickstart/beginners.md)
-- [Self-Taught Programmers](/quickstart/self-taught.md)
+- [Complete Beginners - No CS Experience](/Guides/Beginners-Guide)
+- [Self-Taught Programmers](/Guides/self-taught.md)
 
 ## Essential Tools & Technologies
 
-- [Setting Up Git and GitHub](/tutorials/git-setup.md) 📌 **REQUIRED FOR ALL PARTICIPANTS**
-- [Collaboration Best Practices](/tutorials/collaboration.md)
-- [Project Submission Guide](/tutorials/submission.md)
+- [Setting Up Git and GitHub](/Tutorials/Github-Setup) 📌 **REQUIRED FOR ALL PARTICIPANTS**
+- [Project Submission Guide](/Tutorials/Project-Submission)
 
 ## Track-Specific Resources
 
@@ -44,4 +42,4 @@ Welcome to Red Devil Hacks 2025! Choose the guide that best matches your experie
 | 9:30 AM | Web Development Fundamentals | Tome 120 | Prof. Ferland |
 | 10:30 AM | Mobile App Development | Tome 121 | Prof. Goble |
 
-Remember, the goal is to learn while building something cool! Don't hesitate to ask for help from mentors throughout the event.
+### Remember, the goal is to learn while building something cool! Don't hesitate to ask for help from mentors throughout the event.

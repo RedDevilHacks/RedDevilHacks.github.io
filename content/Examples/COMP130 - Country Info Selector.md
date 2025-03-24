@@ -112,7 +112,7 @@ import json
 
 Let's understand what each of these libraries does:
 
-- **requests**: This is a powerful library that makes it easy to send HTTP requests. We'll use it to communicate with the REST Countries API. HTTP (Hypertext Transfer Protocol) is the standard way computers talk to each other over the internet.
+- **requests**: Requests is a standard Python library that makes it easy to send HTTP requests. We'll use it to communicate with the REST Countries API. HTTP (Hypertext Transfer Protocol) is the standard way computers talk to each other over the internet.
 
 - **sys**: This is a built-in Python library that provides access to some variables used or maintained by the Python interpreter. We'll mainly use it to access command-line arguments (the country name that the user types when running our program).
 
@@ -138,7 +138,7 @@ def get_country_info(country_name):
     url = f"{base_url}{country_name}"
     
     try:
-        # Make the HTTP request
+        # Make the request
         response = requests.get(url)
         
         # Check if the request was successful
@@ -156,7 +156,7 @@ def get_country_info(country_name):
         return None
 ```
 
-This function is the heart of our program, so let's break it down in detail:
+Let's break down what exactly this code does here:
 
 - First, we define a function called `get_country_info` that takes one parameter: `country_name`. This parameter is the name of the country we want to look up.
 
