@@ -111,7 +111,7 @@ Include screenshots or GIFs of your project in action.
 
 ## Step 4: Submit Your Project
 
-1. **Complete the submission form** at [reddevilhacks.dickinson.edu/submit](https://reddevilhacks.dickinson.edu/submit)
+1. **Complete the submission form** at []()
 
 2. **Provide the following information**:
    - Team name
