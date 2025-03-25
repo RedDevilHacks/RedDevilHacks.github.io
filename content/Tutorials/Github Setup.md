@@ -55,19 +55,14 @@ Use the same email associated with your GitHub account.
 
 1. Generate an SSH key:
    ```bash
-   ssh-keygen -t ed25519 -C "youremail@example.com"
+   ssh-keygen -t ed25519 
    ```
-2. Start the SSH agent:
-   ```bash
-   eval "$(ssh-agent -s)"
-   ssh-add ~/.ssh/id_ed25519
-   ```
-3. Copy your public key:
+2. Copy your public key:
    - Windows: `cat ~/.ssh/id_ed25519.pub | clip`
    - macOS: `pbcopy < ~/.ssh/id_ed25519.pub`
    - Linux: `cat ~/.ssh/id_ed25519.pub` and copy manually
 
-4. Add your SSH key to GitHub:
+3. Add your SSH key to GitHub:
    - Go to GitHub → Settings → SSH and GPG keys
    - Click "New SSH key"
    - Paste your key and save
@@ -133,11 +128,5 @@ git checkout branch-name
    - How to use your project
    - Screenshots/demos
 
-## Getting Help During the Hackathon
-
-- Attend the Git/GitHub workshop at 8:30 AM
-- Ask mentors wearing "Git Helper" badges
-- Join the #git-help channel on our Discord
-- Look for Prof. Goble for advanced Git questions
 
 Remember, proper version control will make your development process smoother and ensure your project can be properly evaluated at the end of the hackathon.
