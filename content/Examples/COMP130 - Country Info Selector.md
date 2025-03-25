@@ -1,13 +1,13 @@
 ---
 title: Building a Country Information Finder in Python!
 date: 2025-03-24
-tags: [example, comp130, api, requests, json, python]
+tags: [example, comp130, comp190, api, requests, json, python]
 experience: [all-levels]
 ---
 
 # Building a Country Information Finder in Python!
 
-Are you fresh out of COMP 130, have taken a programming course at Dickinson or have some programming experience? Do YOU want to build something practical that actually connects to the internet? You've come to the right place! In this tutorial, we're going to build a simple but powerful tool that lets you look up information about any country in the world - and we'll do it step-by-step with detailed explanations along the way.
+Are you fresh out of COMP 130, have taken a programming course at Dickinson or have some programming experience? Do YOU want to build something practical that actually connects to the internet? You've come to the right place! In this tutorial, we're going to build a simple but powerful Python program that lets you look up information about any country in the world - and we'll do it step-by-step with detailed explanations along the way.
 
 ## What We're Going to Build
 
@@ -26,24 +26,24 @@ That's exactly what we're going to build today, and the best part is: it's compl
 
 - A computer with Python installed (version 3.6 or higher)
 - A basic understanding of Python (variables, functions, loops)
-- A text editor or IDE (like VSCode, PyCharm, or even just Notepad)
+- A text editor or IDE (like VSCode, PyCharm, or even just the Python IDE)
 - An internet connection
 
-Don't worry if you're still learning Python - I'll explain everything we're doing in detail!
+Don't worry if you're still learning or are unfamiliar with Python - I'll explain everything we're doing in detail!
 
 ## Introduction to APIs: What Are They and Why Do They Matter?
 
 Before we start coding, let's understand what an API is. 
 
-Think of an API as a waiter in a restaurant. You (the customer) don't go into the kitchen to prepare your own food. Instead, you tell the waiter what you want, and they bring it to you from the kitchen. Similarly, an API is a middleman that takes your request, gets the data you need from a server (the kitchen), and brings it back to you in a format you can use.
+Think of an API as a waiter in a restaurant. You (the customer) don't go into the kitchen to prepare your own food. Instead, you tell the waiter what you want, and they bring it to you from the kitchen. Similarly, an API is a middleman that takes your request, gets the data you need from a server (the kitchen), and brings it back to you in a format you can use in your program!
 
 In our case, we'll be using the REST Countries API. This API contains information about every country in the world, and it lets us access that information by making simple requests through the internet.
 
-APIs are incredibly important in modern programming because they allow your applications to communicate with other services and access data that would be impractical to store or maintain yourself. Imagine trying to keep an up-to-date database of information about every country in the world - it would be a huge task! But with an API, we can just request that information whenever we need it.
+APIs are incredibly important in modern programming because they allow your applications to communicate with other services and access data that would be impractical to store or maintain yourself. Imagine trying to keep an up-to-date database of information about every single country in the world! That would be a near impossible task! But with an API, we can just request that information whenever we need it.
 
 ## Setting Up Your Project Environment
 
-Let's start by creating a dedicated space for our project:
+Let's start by creating a dedicated folder for our project:
 
 1. **Create a project folder**: First, we need to create a folder to keep all our project files organized. You can do this through your file explorer or using the command line:
 
@@ -98,7 +98,7 @@ Now that our environment is set up, let's create our Python script:
 
 1. Create a new file named `country_info.py` in your project folder. You can do this with your favorite text editor or IDE.
 
-2. We'll start building our script step-by-step, explaining each part along the way.
+2. We'll start building our finder step-by-step, explaining each part along the way.
 
 ## Step 1: Import Necessary Libraries
 
@@ -120,7 +120,7 @@ Let's understand what each of these libraries does:
 
 ## Step 2: Create a Function to Get Country Information
 
-Next, let's create our first function, which will be responsible for fetching country data from the API:
+Next, let's create our first Python function, which will be responsible for fetching country data from the API:
 
 ```python
 def get_country_info(country_name):
@@ -133,6 +133,7 @@ def get_country_info(country_name):
     Returns:
         dict: Country information or None if not found
     """
+
     # Format the URL with the country name
     base_url = "https://restcountries.com/v3.1/name/"
     url = f"{base_url}{country_name}"
@@ -160,7 +161,7 @@ Let's break down what exactly this code does here:
 
 - First, we define a function called `get_country_info` that takes one parameter: `country_name`. This parameter is the name of the country we want to look up.
 
-- Inside the function, we start by creating the URL we'll use to make our request. The base URL is `"https://restcountries.com/v3.1/name/"`, and we add the country name to the end of it. For example, if we're looking up Sweden, the full URL would be `"https://restcountries.com/v3.1/name/Sweden"`.
+- Inside the function, we start by creating the URL we'll use to make our request. The base URL is `"https://restcountries.com/v3.1/name/"`, and we add the country name to the end of it. For example, if we're looking up Sweden for example, the full URL would be `"https://restcountries.com/v3.1/name/Sweden"`.
 
 - Next, we use a `try/except` block to handle any errors that might occur when making the request. This is a good practice because network requests can fail for various reasons (internet disconnection, server down, etc.).
 
@@ -170,7 +171,7 @@ Let's break down what exactly this code does here:
 
 - We check if the response has a status code of 404, which means "Not Found". If we get this status code, it means the API couldn't find any country with the name we provided, so we return `None`.
 
-- If the status code isn't 404, we call `response.raise_for_status()`. This method raises an exception if the response indicates an error (like if the server is down). This helps us catch other types of errors.
+- If the status code isn't 404, we call `response.raise_for_status()`. This method raises an exception if the response indicates an error (like if the server is down). This helps us catch other types of errors outside of the defined ones in our `try/except` block.
 
 - If there are no errors, we use `response.json()` to convert the JSON data from the response into a Python list of dictionaries. Each dictionary contains information about a country that matches our search.
 
