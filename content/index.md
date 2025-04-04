@@ -46,6 +46,8 @@ For open source development experience + introductionary web development skills
 | 5:00 PM | Dinner | Tome Lobby |
 | 8:00 PM | Closing Ceremony | Tome 120 |
 
+Note: Judging (which will be done by Professor Siddiqui, Professor Goble, Professor Ferland and Professor Braught) will be done two weeks after the ceremony and will be announced in the Microsoft Teams channel so make sure to join that!
+
 ## Awards
 
 ### 🏆 Most Complete
