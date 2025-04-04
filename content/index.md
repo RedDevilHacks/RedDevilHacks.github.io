@@ -32,20 +32,19 @@ For open source development experience
 ### [COMP 290](/Guides/COMP%20190%20or%20COMP%20290)
 For open source development experience + introductionary web development skills
 
-## 📋 Event Schedule (mock)
+## 📋 Event Schedule 
 
 | Time | Activity | Location |
 |------|----------|----------|
-| 8:30 AM | Opening Ceremony | Tome 120 |
-| 9:00 AM | Team Formation & Ideation | Tome 120 & 121 |
-| 9:30 AM | Coding Begins! | Tome 120 & 121 |
+| 8:00 AM | Sign-in Starts | Tome Lobby |
+| 8:30 AM | Opening Ceremony & Project Submission Guidelines (Prof. Goble & Ty Chermsirivatana '27) | Tome 120 |
+| 9:00 AM | Brainstorming Ideas (Boosung Kim '24) | Tome 120 & 121 |
+| 9:30 AM | Team Formation & Coding Begins | Tome 120 & 121 |
 | 10:00 AM | Workshop: Web Dev Basics (Prof. Ferland) | Tome 120 |
-| 11:30 AM | Workshop: Mobile Dev (Prof. Goble) | Tome 121 |
-| 12:30 PM | Lunch | Tome Lobby |
-| 3:00 PM | Snack Break | Tome Lobby |
-| 7:00 PM | Project Submissions Due | GitHub |
-| 7:30 PM | Presentations & Judging | Tome 120 |
-| 8:00 PM | Awards & Closing Ceremony | Tome 120 |
+| 11:00 AM | Workshop: Mobile Dev (Prof. Goble) | Tome 121 |
+| 12:00 PM | Lunch | Tome Lobby |
+| 5:00 PM | Dinner | Tome Lobby |
+| 8:00 PM | Closing Ceremony | Tome 120 |
 
 ## 🏆 Prizes & Tracks
 
