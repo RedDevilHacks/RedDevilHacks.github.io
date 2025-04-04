@@ -42,11 +42,11 @@ For open source development experience + introductionary web development skills
 | 9:30 AM | Team Formation & Coding Begins | Tome 120 & 121 |
 | 10:00 AM | Workshop: Web Dev Basics (Prof. Ferland) | Tome 120 |
 | 11:00 AM | Workshop: Mobile Dev (Prof. Goble) | Tome 121 |
-| 12:00 PM | Lunch | Tome Lobby |
-| 5:00 PM | Dinner | Tome Lobby |
+| 12:00 PM | Lunch | Tome 120 |
+| 5:00 PM | Dinner | Tome 120 |
 | 8:00 PM | Closing Ceremony | Tome 120 |
 
-Note: Judging (which will be done by Professor Siddiqui, Professor Goble, Professor Ferland and Professor Braught) will be done two weeks after the ceremony and will be announced in the Microsoft Teams channel so make sure to join that!
+Note: Judging (which will be done by Professor Siddiqui, Professor Goble, Professor Ferland and Professor Braught) will be done two weeks after the ceremony and the winner will be announced in the Microsoft Teams channel so make sure to join that!
 
 ## Awards
 
@@ -77,8 +77,8 @@ This event is proudly sponsored by the Burgess Institute and the Dickinson Colle
 
 ## 📱 Stay Connected
 
-- Join our [Teams Channel!](#)
-- Questions? Email [goblew@dickinson.edu](mailto:goblew@dickinson.edu) or [chermsit@dickinson.edu](mailto:chermsit@dickinson.edu)
+- Make sure to keep in touch on Microsoft Teams!
+- Questions? Email them to [goblew@dickinson.edu](mailto:goblew@dickinson.edu) or [chermsit@dickinson.edu](mailto:chermsit@dickinson.edu)
 
 ---
 
