@@ -46,15 +46,23 @@ For open source development experience + introductionary web development skills
 | 5:00 PM | Dinner | Tome Lobby |
 | 8:00 PM | Closing Ceremony | Tome 120 |
 
-## 🏆 Prizes & Tracks
+## Awards
 
-Compete in one of our four tracks:
-- Web Development
-- Mobile Applications
-- Data Visualization
-- Open Innovation
+### 🏆 Most Complete
+Awarded to the team whose project demonstrates the highest level of functionality, with a fully implemented feature set and minimal bugs. The winning project should work as intended from start to finish.
 
-The prestigious **Trident Award** will be given to the best overall project!
+### 💡 Most Creative
+Presented to the team that develops the most innovative and original solution. This award recognizes projects that approach problems from unique angles or introduce novel concepts.
+
+### 😈 Red Devil Award
+Given to the team that best embodies the spirit of determination and perseverance. This award celebrates those who overcome significant challenges during development while maintaining enthusiasm and teamwork.
+
+## Rules
+
+* 🚀 The program you create *must* be started the day of the event
+* 🤖 You cannot use generative AI to generate code for you, the purpose of this event is so *you* program, not AI
+   * Your application can make use of AI, as long as you write the code that makes it run
+* ⏰ If you would like your project to be considered for an award, then you need to submit it before 8pm on Sat April 5th
 
 ## 📦 Resources
 
