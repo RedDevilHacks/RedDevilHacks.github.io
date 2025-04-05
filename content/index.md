@@ -36,7 +36,7 @@ For open source development experience + introductionary web development skills
 
 | Time | Activity | Location |
 |------|----------|----------|
-| 8:00 AM | Sign-in Starts | Tome Lobby |
+| 8:00 AM | Sign-in Starts | Tome 120 |
 | 8:30 AM | Opening Ceremony & Project Submission Guidelines (Prof. Goble & Ty Chermsirivatana '27) | Tome 120 |
 | 9:00 AM | Brainstorming Ideas (Boosung Kim '24) | Tome 120 & 121 |
 | 9:30 AM | Team Formation & Coding Begins | Tome 120 & 121 |
