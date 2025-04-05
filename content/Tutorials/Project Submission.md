@@ -10,9 +10,7 @@ Follow these guidelines to properly submit your project for judging at Red Devil
 
 ## Submission Deadline
 
-**All submissions must be completed by 7:30 PM on Saturday, April 5th, 2025.**
-
-This gives judges time to review submissions before the closing ceremony at 8:00 PM.
+**All submissions must be completed by 8:00 PM on Saturday, April 5th, 2025.**
 
 ## Submission Requirements
 
