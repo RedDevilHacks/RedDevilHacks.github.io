@@ -19,7 +19,6 @@ From COMP 132, you're familiar with:
 - Code modularity and reusability
 - Unit testing
 - Recursion
-- Basic algorithm analysis
 
 ## Project Ideas Perfect for Your Skill Level
 
@@ -35,12 +34,6 @@ Create a simple Android app using:
 - Java for Android development
 - Material Design components
 
-### 3. Data Management System
-Develop a system that manages and visualizes data:
-- Database connectivity with JDBC
-- Data models using OOP principles
-- Business logic implemented with design patterns
-
 ## Recommended Technologies to Explore
 
 These technologies build on your Java and OOP foundations:
@@ -48,9 +41,7 @@ These technologies build on your Java and OOP foundations:
 - **JavaFX**: Modern GUI development
 - **Spring Boot**: Java-based web applications
 - **Android SDK**: Mobile app development
-- **JUnit 5**: Advanced testing
-- **JDBC/Hibernate**: Database connectivity
-- **Design Patterns**: Strategy, Observer, Factory, etc.
+- **JUnit 5**: Testing Framework
 
 ## Getting Started Steps
 
