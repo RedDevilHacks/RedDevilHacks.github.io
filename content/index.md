@@ -69,7 +69,7 @@ Given to the team that best embodies the spirit of determination and perseveranc
 ## 📦 Resources
 
 - [GitHub Setup Guide](/Tutorials/Git-Setup)
-- [Submission Requirements](/Tutorials/Submission)
+- [Submission Requirements](/Tutorials/Project-Submission)
 
 ## 🤝 Sponsors
 
