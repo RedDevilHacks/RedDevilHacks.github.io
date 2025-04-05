@@ -109,7 +109,7 @@ Include screenshots or GIFs of your project in action.
 
 ## Step 4: Submit Your Project
 
-1. **Provide the following information in the README and submit your project here: https://github.com/RedDevilHacks/Submissions **:
+1. **Provide the following information in the README (check out the template here: https://github.com/RedDevilHacks/Templates) and submit your project here: https://github.com/RedDevilHacks/Submissions **:
    - Team name
    - Project name
    - GitHub repository URL
@@ -118,18 +118,6 @@ Include screenshots or GIFs of your project in action.
    - Track category (Web, Mobile, Desktop, Data Viz)
    - Team member information
 
-
-## Judging Criteria
-
-Projects will be evaluated based on (fake criteria for now):
-
-| Criterion | Weight | Description |
-|-----------|--------|-------------|
-| Technical Complexity | 25% | Sophistication of code, algorithms, and technical implementation |
-| Creativity & Innovation | 25% | Uniqueness of idea and approach |
-| Functionality | 20% | How well the project works and meets its stated goals |
-| User Experience & Design | 15% | Ease of use, visual appeal, and overall design |
-| Presentation & Documentation | 15% | Quality of demo, README, and presentation |
 
 ## Final Presentation (Optional but Recommended)
 
